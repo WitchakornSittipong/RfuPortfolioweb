@@ -1,0 +1,65 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    background-color: #062C30;
+    text-align: justify;
+    color: white;
+
+}
+
+.navbar{
+
+    margin-bottom: 30px;
+}
+#introduction{
+    
+    padding-top: 10px;
+    margin: 50px 0px;
+}
+
+.intro-img{
+
+    width: 50%;
+}
+
+
+#aboutme{
+
+    margin-bottom: 100px;
+}
+
+#experiences{
+    margin-bottom: 150px;
+}
+
+.card-port{
+    text-decoration: underline;
+}
+
+#myport{
+
+    margin-bottom: 150px;
+}
+
+
+#complement{
+
+    margin-bottom: 150px;
+}
+
+.complement-img{
+
+    width: 10%;
+    margin-bottom: 15px;
+   
+}
+
+.complement-all{
+
+    text-align: center;
+}
+
+#contactme{
+
+    background-color: black;
+    text-align: center;
+}
